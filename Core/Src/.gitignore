@@ -1,0 +1,16 @@
+# STM32CubeIDE auto-generated files to ignore
+.settings/
+Debug/
+Release/
+*.launch
+*.bin
+*.elf
+*.hex
+*.o
+*.d
+*.map
+*.lst
+*.log
+*.tmp
+*.dep
+*.su
