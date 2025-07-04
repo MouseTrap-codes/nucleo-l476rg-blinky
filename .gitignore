@@ -1,0 +1,16 @@
+# Ignore build outputs and auto-generated files
+Debug/
+Release/
+.settings/
+*.launch
+*.bin
+*.elf
+*.hex
+*.o
+*.d
+*.map
+*.lst
+*.log
+*.tmp
+*.dep
+*.su
